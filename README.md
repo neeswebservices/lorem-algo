@@ -1,3 +1,3 @@
 # lorem-algo
 
-## [LIvE](https://lorem-algo.vercel.app/lorem)
+## [LIvE](https://lorem-algo.vercel.app)
